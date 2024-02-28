@@ -1,7 +1,11 @@
-<style>
+
+body
         p
         {
             color:blue;
             text allign:right;
         }
-    </style>
+h1
+{
+        color:red;
+}
